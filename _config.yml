@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Alex Lohse
 tagline:          'GTech MSE'
-description:      'PhD Student in Materials Science and Engineering'
+description:      'GaTech PhD Student in MSE'
 url:              http://alohse.github.io/
 baseurl:          /
 
