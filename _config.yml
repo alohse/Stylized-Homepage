@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Alex Lohse
 tagline:          'GTech MSE'
 description:      'GaTech PhD Student in MSE'
-url:              http://alohse.github.io/
+url:              
 baseurl:          /
 
 author:
